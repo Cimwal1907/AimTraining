@@ -95,5 +95,5 @@ function winTheGame() {
 		}
 	}
 
-	setInterval(kill, 35)
+	setInterval(kill, 30)
 }
